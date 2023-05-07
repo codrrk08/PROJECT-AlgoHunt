@@ -1,6 +1,8 @@
 # Project-AlgoHunt
 Group project on MERN 
- Dependencies 🗃
+
+
+Dependencies 🗃
 React - Frontend Framework
 Bootstrap - CSS Framework
 React-Reveal - React Based Animations
