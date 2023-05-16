@@ -1,5 +1,5 @@
 # Project-AlgoHunt
-Group project on MERN 
+Group project designed to help students in their problem solving journey.
 
 
 Dependencies 🗃
